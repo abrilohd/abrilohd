@@ -1,4 +1,4 @@
-## 👋 Hello World, I'm Abrham
+##  Hello World, I'm Abrham
 
 > **Software Engineer | Backend Architect in Progress | System Thinker**
 
