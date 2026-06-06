@@ -1,6 +1,6 @@
-## hello world, I'm Abrham
+## Abrham | Python & Full-Stack Developer
 
-Python-first full-stack developer. I build backend systems with FastAPI and Django, web applications with React and TypeScript, and mobile apps with Flutter. Currently building AI projects — RAG systems, voice AI, and LLM-powered applications.
+Python-first full-stack developer. I build backend systems with FastAPI and Django, web applications with React and TypeScript, and mobile apps with Flutter. I enjoy building products, and recently I've been exploring how AI and LLMs can make software more useful.
 
 I enjoy turning ideas into working software and figuring out how new technology actually fits into real products.
 
@@ -14,14 +14,11 @@ I enjoy turning ideas into working software and figuring out how new technology 
 **AI:** LLM integration, RAG systems, voice AI  
 **Cloud:** Azure, Vercel, Render, Railway  
 
-## Technologies
-
-Python · FastAPI · Django · PostgreSQL · React · TypeScript · Flutter · TailwindCSS · LangChain · Azure · Git
-
 ---
+
 ## Current Focus
 
-Learning AI engineering by building projects and exploring how LLMs fit into modern web applications while continuing to strengthen backend and cloud skills.
+Building AI-powered applications while continuing to deepen my backend and cloud engineering skills.
 
 ---
 
