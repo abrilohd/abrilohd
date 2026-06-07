@@ -12,13 +12,11 @@ I enjoy turning ideas into working software and figuring out how new technology 
 **AI:** LLM integration, RAG systems, voice AI  
 **Cloud:** Azure, Vercel, Render, Railway  
 
----
 
 ## Current Focus
 
 Learning AI engineering by building projects. Exploring how LLMs, RAG, and voice AI fit into practical software products — alongside deepening backend and cloud infrastructure knowledge.
 
----
 
 ## Get in Touch
 
