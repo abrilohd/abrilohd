@@ -1,4 +1,4 @@
-Python first full-stack developer. I build backend systems with all python backend frameworks, web applications with React and TypeScript, and mobile apps with Flutter. Currently learning AI engineering by building projects - RAG systems, voice AI, and LLM-powered applications With specializing in AI Pentesting-securing intelligent systems,.
+**Python-first Full-Stack & AI Engineer**, I build backend systems with all python backend frameworks, web applications with React and TypeScript, and mobile apps with Flutter. Currently learning AI engineering by building projects - RAG systems, voice AI, and LLM-powered applications With specializing in AI Pentesting-securing intelligent systems,.
 
 I enjoy turning ideas into working software and figuring out how new technology actually fits into real products.
 
@@ -9,11 +9,12 @@ I enjoy turning ideas into working software and figuring out how new technology 
 **AI Engineering:** LLM integration, custom RAG systems, voice AI agent design  
 **Backend:** High-performance APIs with FastAPI, Django, Flask, Laravel, PostgreSQL, and pgvector  
 **Cloud:** Azure Developer Certified (AZ-204), Vercel, Render, Railway  
-**Frontend & Mobile:** React, TypeScript, and cross-platform mobile apps with Flutter   
+**Frontend & Mobile:** React, TypeScript, and cross-platform mobile apps with Flutter  
 
 ## Current Focus
 
 Learning AI engineering by building projects. Exploring how LLMs, RAG, and voice AI fit into practical software products - alongside deepening backend and cloud infrastructure knowledge.
+
 ## Get in Touch
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrsh067@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrilohd)
