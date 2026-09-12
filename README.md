@@ -11,7 +11,6 @@ I enjoy turning ideas into working software and figuring out how new technology 
 **Cloud:** Azure Developer Certified (AZ-204), Vercel, Render, Railway  
 **Frontend & Mobile:** React, TypeScript, and cross-platform mobile apps with Flutter   
 
-
 ## Current Focus
 
 Learning AI engineering by building projects. Exploring how LLMs, RAG, and voice AI fit into practical software products - alongside deepening backend and cloud infrastructure knowledge.
