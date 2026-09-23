@@ -5,7 +5,7 @@ I enjoy turning ideas into working software and figuring out how new technology 
 ---
 
 ## What I Work On
-**AI Security:** AI Pentesting, LLM vulnerability assessment, adversarial testing, securing RAG architectures  
+<u>**AI Security:**<u> AI Pentesting, LLM vulnerability assessment, adversarial testing, securing RAG architectures  
 **AI Engineering:** LLM integration, custom RAG systems, voice AI agent design  
 **Backend:** High-performance APIs with FastAPI, Django, Flask, Laravel, PostgreSQL, and pgvector  
 **Cloud:** Azure Developer Certified (AZ-204), Vercel, Render, Railway  
